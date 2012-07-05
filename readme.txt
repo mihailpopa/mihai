@@ -1,3 +1,2 @@
 sxample
-exaample3
-sdasdad
+example3
